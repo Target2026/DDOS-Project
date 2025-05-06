@@ -1,0 +1,2 @@
+source_ip,destination_ip,flow_duration,byte_count,packet_count,syn_flag,ip_proto,attack
+10.0.0.2,10.0.0.23,5000,50000,500,1,6,1

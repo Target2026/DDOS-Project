@@ -1,0 +1,5 @@
+flow_duration,byte_count,packet_count,syn_flag,ip_proto,label
+1000,2000,10,1,6,0
+1200,1800,8,1,6,0
+200,4000,100,1,6,1
+250,5000,150,1,6,1
